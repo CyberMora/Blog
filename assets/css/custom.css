@@ -1,0 +1,13 @@
+body {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+a {
+  color: #1e90ff;
+}
+
+header, footer {
+  background-color: #000 !important;
+  color: #ccc !important;
+}
