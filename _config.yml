@@ -1,8 +1,5 @@
-theme: minima
-
-sass:
-  style: compressed
-
-# Tells minima to use your stylesheet instead of its own
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
-  skin: null
+  skin: dark
