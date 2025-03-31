@@ -1,1 +1,8 @@
 theme: minima
+
+sass:
+  style: compressed
+
+# Tells minima to use your stylesheet instead of its own
+minima:
+  skin: null
